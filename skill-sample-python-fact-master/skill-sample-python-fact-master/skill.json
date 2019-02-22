@@ -6,8 +6,8 @@
             "summary": "Learn fun facts about space.",
             "examplePhrases": [
               "Alexa open space facts",
-              "Alexa tell me space facts",
-              "Alexa tell me space trivia"
+              "Alexa ask space facts for a fact",
+              "Alexa tell space facts to tell me trivia"
             ],
             "keywords": [
               "space",
@@ -21,23 +21,23 @@
             "summary": "Learn fun facts about space.",
             "examplePhrases": [
               "Alexa open space facts",
-              "Alexa tell me space facts",
-              "Alexa tell me space trivia"
-            ],
+              "Alexa ask space facts for a fact about black holes or other things",
+              "Alexa tell space facts to tell me trivia"
+            ],#hi i am alex
             "keywords": [
               "space",
               "facts",
               "trivia"
             ],
-            "name": "Space Facts",
+            "name": "Space Facts that are boring",
             "description": "Ask for Space Facts, and learn about what really matters, like dark matter.\n\nSpace Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch Space Facts\" or \"Alexa, open Space Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
           },
           "en-GB": {
             "summary": "Learn fun facts about space.",
             "examplePhrases": [
               "Alexa open space facts",
-              "Alexa tell me space facts",
-              "Alexa tell me space trivia"
+              "Alexa ask space facts for a fact of soaring",
+              "Alexa tell space facts to tell me trivia things"
             ],
             "keywords": [
               "space",
@@ -52,7 +52,7 @@
             "examplePhrases": [
               "Alexa open space facts",
               "Alexa ask space facts for a fact",
-              "Alexa tell me space trivia"
+              "Alexa tell space facts to tell me trivia"
             ],
             "keywords": [
               "space",
@@ -66,8 +66,8 @@
             "summary": "Learn fun facts about space.",
             "examplePhrases": [
               "Alexa open space facts",
-              "Alexa tell me space facts",
-              "Alexa tell me space trivia"
+              "Alexa ask space facts for a fact",
+              "Alexa tell space facts to tell me trivia"
             ],
             "keywords": [
               "space",
@@ -75,7 +75,7 @@
               "trivia"
             ],
             "name": "Space Facts",
-            "description": "Ask for Space Facts, and learn about what really matters, like dark matter.\n\nSpace Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch Space Facts\" or \"Alexa, open Space Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+            "description": "Ask for Space Facts, and learn about what really matters, like dark matter.\n\nSpace Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch Space Facts\" or \"Alexa, open Space Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\ or you can play by saying \"Alexa, stop"\"
           }
         },
         "category": "KNOWLEDGE_AND_TRIVIA"
@@ -91,3 +91,4 @@
       "manifestVersion": "1.0"
     }
   }
+print ("hi")
