@@ -9,13 +9,17 @@
               "Alexa tell me space facts",
               "Alexa tell me space trivia"
             ],
-            "keywords": [
+            "keywords that will help you learn": [
               "space",
               "facts",
-              "trivia"
+              "trivia",
+              "Black Holes",
+              "Planets",
+              "Grandparents Mode"
+              "Help me study"
             ],
             "name": "Space Facts",
-            "description": "Ask for Space Facts, and learn about what really matters, like dark matter.\n\nSpace Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch Space Facts\" or \"Alexa, open Space Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+            "description": "Ask for Space Facts, and learn about what really matters, like dark matter. And to make your parents learn a little more\n\nSpace Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch Space Facts\" or \"Alexa, open Space Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
           },
           "en-CA": {
             "summary": "Learn fun facts about space.",
@@ -45,7 +49,7 @@
               "trivia"
             ],
             "name": "Space Facts",
-            "description": "Ask for Space Facts, and learn about what really matters, like dark matter.\n\nSpace Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch Space Facts\" or \"Alexa, open Space Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+            "description": "Ask for Space Facts, and learn about what really matters, like dark matter.\n\nSpace Facts provides fun the whole family can enjoy even your grandmothers and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch Space Facts or black hole facts\" or \"Alexa, open Space Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
           },
           "en-IN": {
             "summary": "Learn fun facts about space.",
@@ -53,6 +57,7 @@
               "Alexa open space facts",
               "Alexa ask space facts for a fact",
               "Alexa tell me space trivia"
+              "Alexa Can you please help me play a game about space facts"
             ],
             "keywords": [
               "space",
